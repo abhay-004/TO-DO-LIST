@@ -17,8 +17,12 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## 📸 Screenshots
 
-[![To-Do App Preview](https://github.com/abhay-004/TO-DO-LIST/blob/main/screenshots/todo1.PNG)]
-[![To-Do App Preview](https://github.com/abhay-004/TO-DO-LIST/blob/main/screenshots/todo2.PNG)]
+**Home Page**  
+![Home Page](https://github.com/abhay-004/TO-DO-LIST/blob/main/screenshots/todo1.PNG)
+
+**Adding a Task**  
+![Add Task](https://github.com/abhay-004/TO-DO-LIST/blob/main/screenshots/todo2.PNG)
+
 
 ## 🛠️ Tech Stack
 
