@@ -12,7 +12,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## 🚀 Demo
 
-[Live Demo](#) *(https://abhay-004.github.io/TO-DO-LIST/)*
+[Live Demo](#) *(https://to-do-list7767.netlify.app/)*
 
 ## 📸 Screenshots
 
