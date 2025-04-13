@@ -9,7 +9,6 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 - 🕹️ Mark tasks as completed
 - 🧹 Clear all completed tasks
 - 💾 Persistent storage using **LocalStorage**
-- 📱 Responsive design for mobile and desktop
 
 ## 🚀 Demo
 
