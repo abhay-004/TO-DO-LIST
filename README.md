@@ -33,7 +33,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 ## ▶️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/abhay-004/todo-list-app.git
 cd todo-list-app
 
 
